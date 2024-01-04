@@ -71,3 +71,11 @@ Welcome to my collection of Python projects, developed up to the current date an
 
 - Pong game using the Turtle graphics library.
 - Utilizes object-oriented programming principles to structure the game logic.
+
+## 14. Spotify Time Machine (`spotify-time-machine`)
+
+- Travel back in time through music!
+- Scrapes the top 100 Billboard songs of a specified date.
+- Creates a playlist on your Spotify account with the retrieved songs.
+
+### Feel free to explore, contribute, or provide feedback. Thanks for visiting! 😊
