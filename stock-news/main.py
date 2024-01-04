@@ -48,7 +48,7 @@ else:
     emoji_msg = "🔻"
 percentage = (abs(difference) * 100) / day_before_yesterday_closing_price
 
-if percentage > 1:
+if percentage > 5:
 
     response_news = requests.get(url=NEWS_ENDPOINT, params=params_news)
     response_news.raise_for_status()
