@@ -3,7 +3,7 @@
 **Welcome!**
 Welcome to my collection of Python projects, developed up to the current date and continuously updated with new content. These projects are based on the curriculum from the App Brewery's Python programming course.
 
-## 1. Exercise Tracking (`exercise-tracking.nt`)
+## 1. Exercise Tracking (`exercise-tracking-nt`)
 
 - Utilizes Sheety and Nutritionix APIs.
 - Transforms natural language exercise entries into structured data.
