@@ -78,4 +78,15 @@ Explore my collection of Python projects, developed up to the current date and c
 - Scrapes the top 100 Billboard songs of a specified date.
 - Creates a playlist on your Spotify account with the retrieved songs.
 
+## 14. Spotify Time Machine (`spotify-time-machine`)
+
+- Travel back in time through music!
+- Scrapes the top 100 Billboard songs of a specified date.
+- Creates a playlist on your Spotify account with the retrieved songs.
+
+## 15. Amazon Price Tracker (`amazon-price-tracker`)
+
+- Monitors the price of a specified Amazon product.
+- Sends email notifications if the price drops below a predefined threshold.
+
 ### Feel free to explore, contribute, or provide feedback. Thanks for visiting! 😊
