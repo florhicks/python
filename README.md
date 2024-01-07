@@ -89,4 +89,14 @@ Explore my collection of Python projects, developed up to the current date and c
 - Monitors the price of a specified Amazon product.
 - Sends email notifications if the price drops below a predefined threshold.
 
+## 16. Cookie Clicker Gaming Bot (`cookie-clicker-gaming-bot`)
+
+- Automates various actions in the Cookie Clicker game.
+- Auto-click on the big cookie.
+- Auto-click on golden cookies.
+- Auto-click on upgrades.
+- Auto-click on buildings.
+
+Enjoy your automated Cookie Clicker gaming experience on the official [Cookie Clicker website](https://orteil.dashnet.org/cookieclicker/)!
+
 ### Feel free to explore, contribute, or provide feedback. Thanks for visiting! 😊
