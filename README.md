@@ -97,6 +97,11 @@ Explore my collection of Python projects, developed up to the current date and c
 - Auto-click on upgrades.
 - Auto-click on buildings.
 
+## 17. Personal Web Card (`personal-web-card`)
+
+- A simple personal webpage created using Flask and HTML web templates.
+- Serves as a digital business card with links to LinkedIn, email, and GitHub profiles.
+
 Enjoy your automated Cookie Clicker gaming experience on the official [Cookie Clicker website](https://orteil.dashnet.org/cookieclicker/)!
 
 ### Feel free to explore, contribute, or provide feedback. Thanks for visiting! 😊
