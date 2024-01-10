@@ -104,4 +104,9 @@ Enjoy your automated Cookie Clicker gaming experience on the official [Cookie Cl
 - A simple personal webpage created using Flask and HTML web templates.
 - Serves as a digital business card with links to LinkedIn, email, and GitHub profiles.
 
+## 18. Blog Templating (`blog-templating`)
+
+- A blog project using Flask and HTML templates to dynamically render API-fetched posts.
+- Offers a dynamic user experience with automatically updated content.
+
 ### Feel free to explore, contribute, or provide feedback. Thanks for visiting! 😊
