@@ -1,6 +1,7 @@
-from flask import Flask, render_template
+from flask import Flask, render_template, request
 import requests
 import datetime
+from contact import Email
 
 app = Flask(__name__)
 
@@ -23,6 +24,17 @@ def contact():
 def render_post(index):
     requested_post = posts[index-1]
     return render_template("post.html", post = requested_post)
+
+@app.route("/contact", methods =["GET","POST"])
+def receive_data():
+    if request.method == "POST":
+        msg = Email(name=request.form["name"],
+                    email_address=request.form["email"],
+                    phone_number=request.form["phone"],
+                    message=request.form["message"])
+        return render_template("contact.html", success = "Successfully sent your message!")
+
+
 
 if __name__ == "__main__":
     app.run(debug=True)
