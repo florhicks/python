@@ -109,4 +109,10 @@ Enjoy your automated Cookie Clicker gaming experience on the official [Cookie Cl
 - A blog project using Flask and HTML templates to dynamically render API-fetched posts.
 - Offers a dynamic user experience with automatically updated content.
 
+## 19. Clean Blog Project (`clean-blog`)
+
+- Enhanced Flask blog with API-driven content.
+- Features diverse sections and a functional contact form.
+- Tasks include template setup, styling fixes, API integration, and more.
+
 ### Feel free to explore, contribute, or provide feedback. Thanks for visiting! 😊
