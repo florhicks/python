@@ -93,10 +93,7 @@ Explore my collection of Python projects, developed up to the current date and c
 
 Enjoy your automated Cookie Clicker gaming experience on the official [Cookie Clicker website](https://orteil.dashnet.org/cookieclicker/)!
 
-~~ 17. Personal Web Card (`personal-web-card`)
-
-- A simple personal webpage created using Flask and HTML web templates.
-- Serves as a digital business card with links to LinkedIn, email, and GitHub profiles. ~~
+## 17. Personal Web Card (`REMOVED`)
 
 ## 18. Blog Templating (`blog-templating`)
 
