@@ -106,4 +106,13 @@ Enjoy your automated Cookie Clicker gaming experience on the official [Cookie Cl
 - Features diverse sections and a functional contact form.
 - Tasks include template setup, styling fixes, API integration, and more.
 
+## 20. Coffee and Wifi Project (`coffee-and-wifi`)
+
+- Developed using Flask, Flask-WTF, Flask-Bootstrap, and CSV file manipulation.
+- The Coffee and Wifi Project is a web application designed for users to register and showcase cafes they have visited.
+- The /cafes route displays a Bootstrap table containing data from cafe-data.csv.
+- There is a secret route "/add" leading to the add.html page for adding new cafes.
+- Utilizes WTForms to create a quick form on the add.html page with required fields.
+- Upon successfully submitting the form on add.html, the data is appended to cafe-data.csv.
+
 ### Feel free to explore, contribute, or provide feedback. Thanks for visiting! 😊
