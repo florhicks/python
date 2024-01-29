@@ -115,4 +115,10 @@ Enjoy your automated Cookie Clicker gaming experience on the official [Cookie Cl
 - Utilizes WTForms to create a quick form on the add.html page with required fields.
 - Upon successfully submitting the form on add.html, the data is appended to cafe-data.csv.
 
+## 21. My Library Flask App (`my-library`)
+
+- **Basic** Flask web app for tracking and managing read books.
+- Utilizes Flask and SQLAlchemy to register books with title, author, and rating.
+- Allows users to modify book ratings and delete entries for a personalized library.
+
 ### Feel free to explore, contribute, or provide feedback. Thanks for visiting! 😊
