@@ -121,4 +121,12 @@ Enjoy your automated Cookie Clicker gaming experience on the official [Cookie Cl
 - Utilizes Flask and SQLAlchemy to register books with title, author, and rating.
 - Allows users to modify book ratings and delete entries for a personalized library.
 
+## 22. My Movie List Flask App (`my-movie-list`)
+
+- **Interactive** Flask web application for curating and organizing a personalized movie list.
+- Employs Flask, WTForms, SQLite, and SQLAlchemy to facilitate the addition, editing, and deletion of movie entries.
+- Integrates The Movie Database API to fetch movie details, including posters, release years, and descriptions.
+- Displays a user-friendly interface with movie cards featuring front-end details and options for back-end actions.
+- Features a ranking system that dynamically orders movies based on user ratings.
+
 ### Feel free to explore, contribute, or provide feedback. Thanks for visiting! 😊
