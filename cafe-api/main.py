@@ -33,7 +33,7 @@ def home():
     return render_template("index.html")
 
 
-## HTTP GET - Read Record
+
 @app.route("/random", methods=["GET"])
 def get_random_cafe():
     cafes = db.session.query(Cafe).all()
