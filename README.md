@@ -123,10 +123,26 @@ Enjoy your automated Cookie Clicker gaming experience on the official [Cookie Cl
 
 ## 22. My Movie List Flask App (`my-movie-list`)
 
-- **Interactive** Flask web application for curating and organizing a personalized movie list.
+- Flask web application for curating and organizing a personalized movie list.
 - Employs Flask, WTForms, SQLite, and SQLAlchemy to facilitate the addition, editing, and deletion of movie entries.
 - Integrates The Movie Database API to fetch movie details, including posters, release years, and descriptions.
 - Displays a user-friendly interface with movie cards featuring front-end details and options for back-end actions.
 - Features a ranking system that dynamically orders movies based on user ratings.
+
+## 23. Cafe RESTful API (`cafe-api`)
+
+- RESTful API built with Flask and SQLAlchemy for management of cafe information.
+
+### Routes:
+
+- `/random` (GET): Returns JSON details about a randomly selected cafe from the database.
+- `/all` (GET): Provides JSON information for all stored cafes.
+- `/search` (GET): Allows cafe search by location (parameter: `loc`), delivering details in JSON format.
+- `/add` (POST): Facilitates the addition of new cafes through a POST request with JSON body.
+  - Parameters: `name`, `map_url`, `img_url`, `location`, `seats`, `has_toilet`, `has_wifi`, `has_sockets`, `can_take_calls`, `coffee_price`.
+- `/update-price/<cafe_id>` (PATCH): Updates the coffee price for a specific cafe identified by its ID.
+  - Parameters: `new_price`.
+- `/reports-closed/<cafe_id>` (DELETE): Deletes cafes from the database, authenticated by an API key provided as a parameter.
+  - Parameters: `api-key`.
 
 ### Feel free to explore, contribute, or provide feedback. Thanks for visiting! 😊
